@@ -70,7 +70,7 @@ p {
     background-color: rgb(2, 2, 2);
     color: rgb(239, 255, 96);
     font-size: 3rem;
-    margin-right: 1600px;
+    margin-right: auto;
     padding-top: 20px;
     padding-bottom: 20px;
     text-indent: 50px;
@@ -85,7 +85,7 @@ p {
     margin-right: auto;
     padding-top:  20px;
     padding-bottom: 20px;
-    text-indent: 85px;
+    text-indent: 50px;
     width: 1887px;
 }
 
@@ -97,7 +97,7 @@ p {
     margin-right: auto;
     padding-top: 20px;
     padding-bottom: 20px;
-    text-indent: 85px;
+    text-indent: 50px;
     width: 1887px;
     
 }
@@ -110,7 +110,7 @@ p {
     margin-right: auto;
     padding-top: 20px;
     padding-bottom: 20px;
-    text-indent: 35px;
+    text-indent: 50px;
     width: 1887px;
 }
 
